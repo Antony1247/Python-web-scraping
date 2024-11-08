@@ -11,7 +11,7 @@ This project is a web scraper built with Python and Selenium to extract product 
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - [Google Chrome](https://www.google.com/chrome/) browser
 - [ChromeDriver](https://sites.google.com/chromium.org/driver/) (ensure it matches your Chrome version)
 - Python packages: `selenium`, `pandas`
@@ -65,12 +65,4 @@ The CSV file `amazon_products.csv` will contain:
 
 - This scraper is for educational purposes only. Scraping Amazon pages for commercial use may violate Amazon's terms of service. Use this tool responsibly and be aware of the legal and ethical considerations of web scraping.
 - Amazon may change its page structure over time, which could require updates to the XPath selectors in the code.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to reach out or contribute by submitting issues or pull requests.
 
